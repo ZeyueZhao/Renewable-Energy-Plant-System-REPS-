@@ -1,3 +1,5 @@
+// Group 5
+// Student Name: Kai Zhao, Yingjie Song, Zeyue Zhao
 // DeviceMonitor is responsible for monitoring real-time status and production of all renewable devices
 object DeviceMonitor {
 
