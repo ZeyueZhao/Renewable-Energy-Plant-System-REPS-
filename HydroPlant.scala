@@ -1,3 +1,5 @@
+// Group 5
+// Student Name: Kai Zhao, Yingjie Song, Zeyue Zhao
 case class HydroPlant(var id: String, var powerOutputKW: Double, var isOperational: Boolean) {
   
   def simulate(): Unit = {
