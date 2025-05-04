@@ -1,3 +1,5 @@
+// Group 5
+// Student Name: Kai Zhao, Yingjie Song, Zeyue Zhao
 // DataManager handles reading, filling, and saving energy production data
 import java.io.{File, PrintWriter}
 
