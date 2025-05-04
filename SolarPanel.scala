@@ -1,3 +1,5 @@
+// Group 5
+// Student Name: Kai Zhao, Yingjie Song, Zeyue Zhao
 // Represents a Solar Panel device in the system
 case class SolarPanel(var id: String, var powerOutputKW: Double, var isOperational: Boolean) {
 
