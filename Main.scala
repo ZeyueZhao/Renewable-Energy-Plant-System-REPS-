@@ -1,3 +1,5 @@
+// Group 5
+// Student Name: Kai Zhao, Yingjie Song, Zeyue Zhao
 import java.io.{File, PrintWriter}
 import java.time.{LocalDate, LocalDateTime}
 import java.time.format.{DateTimeFormatter, DateTimeParseException}
