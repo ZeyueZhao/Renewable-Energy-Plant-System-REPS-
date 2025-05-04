@@ -1,3 +1,5 @@
+// Group 5
+// Student Name: Kai Zhao, Yingjie Song, Zeyue Zhao
 // EnergyViewer is responsible for displaying energy production and storage data
 object EnergyViewer {
 
