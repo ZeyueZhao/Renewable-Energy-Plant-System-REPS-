@@ -1,3 +1,5 @@
+// Group 5
+// Student Name: Kai Zhao, Yingjie Song, Zeyue Zhao
 // System to check and alert for low renewable energy production
 object AlertSystem {
 
