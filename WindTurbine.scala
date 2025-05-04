@@ -1,3 +1,5 @@
+// Group 5
+// Student Name: Kai Zhao, Yingjie Song, Zeyue Zhao
 // Represents a Wind Turbine device in the system
 case class WindTurbine(var id: String, var powerOutputKW: Double, var isOperational: Boolean) {
 
