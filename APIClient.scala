@@ -1,3 +1,5 @@
+// Group 5
+// Student Name: Kai Zhao, Yingjie Song, Zeyue Zhao
 // APIClient is responsible for fetching energy production data from Fingrid API
 import java.net.{HttpURLConnection, URL}
 import scala.collection.mutable
