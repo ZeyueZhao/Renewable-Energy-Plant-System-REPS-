@@ -29,7 +29,7 @@ object EnergyViewer {
     }
 
     println("-" * 79)
-    println("\n📈 Summary Statistics:")
+    println("\n Summary Statistics:")
     println(f"- Total Solar Energy Produced: $totalSolar%.2f kWh")
     println(f"- Total Wind Energy Produced:  $totalWind%.2f kWh")
     println(f"- Total Hydro Energy Produced: $totalHydro%.2f kWh")
